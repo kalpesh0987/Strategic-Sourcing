@@ -1,0 +1,6 @@
+SupplierID,SupplierName,Country,LeadTime,ReliabilityScore,SustainabilityScore
+S1,Supplier_1,USA,23,76,96
+S2,Supplier_2,China,26,71,55
+S3,Supplier_3,Germany,11,93,63
+S4,Supplier_4,India,11,83,88
+S5,Supplier_5,Brazil,17,93,85

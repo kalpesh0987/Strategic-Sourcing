@@ -1,0 +1,16 @@
+SupplierID,Material,UnitCost,MinOrderQty,MaxCapacity
+S1,Steel,39.04,86,689
+S1,Plastic,33.8,130,1067
+S1,Copper,65.0,169,1468
+S2,Steel,75.51,188,965
+S2,Plastic,29.83,111,1577
+S2,Copper,91.81,86,1267
+S3,Steel,61.76,64,1536
+S3,Plastic,22.02,55,880
+S3,Copper,79.53,63,663
+S4,Steel,77.21,163,1331
+S4,Plastic,14.21,50,806
+S4,Copper,19.4,75,1879
+S5,Steel,91.74,127,717
+S5,Plastic,20.56,52,725
+S5,Copper,32.38,165,968
